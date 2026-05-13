@@ -108,7 +108,9 @@ c.close()
 ## OUPUT -RARP
 ## SERVER RARP:
 <img width="1043" height="187" alt="Screenshot 2026-05-13 162202" src="https://github.com/user-attachments/assets/f360a0af-1452-44bc-b30b-9392f5e177e2" />
+
 ## CLIENT-RARP:
+
 <img width="802" height="136" alt="image" src="https://github.com/user-attachments/assets/93fab85d-ee31-4587-9a6f-5f2c9900d19b" />
 
 ## RESULT
